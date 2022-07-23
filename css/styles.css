@@ -1,6 +1,20 @@
+.hero-image {
+  background-image: url("/img/pexels-adam-krypel-6498994.jpg");
+  height: 200px;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
 .parallax-1 {
     /* The image used */
-    background-image: url("");
+    background-image: url("/img/pexels-dominika-roseclay-977736.jpg");
   
     /* Set a specific height */
     min-height: 500px; 
@@ -14,7 +28,7 @@
 
   .parallax-2 {
     /* The image used */
-    background-image: url("");
+    background-image: url("/img/pexels-eberhard-grossgasteiger-844297.jpg");
   
     /* Set a specific height */
     min-height: 500px; 
@@ -28,7 +42,7 @@
 
   .parallax-3 {
     /* The image used */
-    background-image: url("");
+    background-image: url("/img/pexels-james-wheeler-417074.jpg");
   
     /* Set a specific height */
     min-height: 500px; 
@@ -42,7 +56,7 @@
 
   .parallax-4 {
     /* The image used */
-    background-image: url("");
+    background-image: url("/img/pexels-pixabay-206359.jpg");
   
     /* Set a specific height */
     min-height: 500px; 
@@ -56,7 +70,7 @@
 
   .parallax-5 {
     /* The image used */
-    background-image: url("");
+    background-image: url("/img/pexels-veeterzy-38136.jpg");
   
     /* Set a specific height */
     min-height: 500px; 
