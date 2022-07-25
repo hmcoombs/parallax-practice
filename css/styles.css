@@ -1,6 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two&family=Open+Sans&display=swap');
+
+h1 {
+  font-family: lobster;
+}
+
+h2, p {
+  font-family: cursive;
+}
+
 .hero-image {
   background-image: url("/img/pexels-adam-krypel-6498994.jpg");
-  height: 200px;
+  height: 150px;
 }
 
 .hero-text {
@@ -81,3 +91,5 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+ 
